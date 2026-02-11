@@ -9,4 +9,4 @@ docs/plots/cellpose_masks/*
 *.log
 *.csv
 *.db
-
+*.pyc
