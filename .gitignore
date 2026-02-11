@@ -1,2 +1,12 @@
 data/*
 src/__pycache__/
+*.zarr
+logs/*
+src/logs/*
+ultrack_plots/*
+docs/plots/cellpose_masks/*
+*.lock
+*.log
+*.csv
+*.db
+
